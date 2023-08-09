@@ -1,0 +1,15 @@
+C:\Users\Artyom\Desktop\Egor\C_Examples\Homework_C_7\bin\Debug\net6.0\Homework_C_7.exe
+C:\Users\Artyom\Desktop\Egor\C_Examples\Homework_C_7\bin\Debug\net6.0\Homework_C_7.deps.json
+C:\Users\Artyom\Desktop\Egor\C_Examples\Homework_C_7\bin\Debug\net6.0\Homework_C_7.runtimeconfig.json
+C:\Users\Artyom\Desktop\Egor\C_Examples\Homework_C_7\bin\Debug\net6.0\Homework_C_7.dll
+C:\Users\Artyom\Desktop\Egor\C_Examples\Homework_C_7\bin\Debug\net6.0\Homework_C_7.pdb
+C:\Users\Artyom\Desktop\Egor\C_Examples\Homework_C_7\obj\Debug\net6.0\Homework_C_7.csproj.AssemblyReference.cache
+C:\Users\Artyom\Desktop\Egor\C_Examples\Homework_C_7\obj\Debug\net6.0\Homework_C_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artyom\Desktop\Egor\C_Examples\Homework_C_7\obj\Debug\net6.0\Homework_C_7.AssemblyInfoInputs.cache
+C:\Users\Artyom\Desktop\Egor\C_Examples\Homework_C_7\obj\Debug\net6.0\Homework_C_7.AssemblyInfo.cs
+C:\Users\Artyom\Desktop\Egor\C_Examples\Homework_C_7\obj\Debug\net6.0\Homework_C_7.csproj.CoreCompileInputs.cache
+C:\Users\Artyom\Desktop\Egor\C_Examples\Homework_C_7\obj\Debug\net6.0\Homework_C_7.dll
+C:\Users\Artyom\Desktop\Egor\C_Examples\Homework_C_7\obj\Debug\net6.0\refint\Homework_C_7.dll
+C:\Users\Artyom\Desktop\Egor\C_Examples\Homework_C_7\obj\Debug\net6.0\Homework_C_7.pdb
+C:\Users\Artyom\Desktop\Egor\C_Examples\Homework_C_7\obj\Debug\net6.0\Homework_C_7.genruntimeconfig.cache
+C:\Users\Artyom\Desktop\Egor\C_Examples\Homework_C_7\obj\Debug\net6.0\ref\Homework_C_7.dll
